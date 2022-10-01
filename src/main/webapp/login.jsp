@@ -44,7 +44,6 @@
                     <p class="account-text">Don't have an account? <a href="#" id="sign-up-btn2">Sign up</a></p>
                 </form>
                 <form action="" class="sign-up-form">
-                    <h2 class="title">Sign up</h2>
                     <div class="input-field">
                         <i class="fas fa-user"></i>
                         <input type="text" placeholder="Username">
