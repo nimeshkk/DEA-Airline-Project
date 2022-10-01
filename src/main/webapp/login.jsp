@@ -95,7 +95,7 @@
                 </div>
             </div>
         </div>
-        <script src="app.js"></script>
+        <script src="ADStyle/js/login.js"></script>
     </body>
     
     </html>
