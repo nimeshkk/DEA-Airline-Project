@@ -89,7 +89,7 @@
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque accusantium dolor, eos incidunt minima iure?</p>
                         <button class="btn" id="sign-in-btn">Sign in</button>
                     </div>
-                    <img src="signin.svg" alt="" class="image">
+                    <img src="ADStyle/images/signin.svg" alt="" class="image">
                 </div>
                 <div class="panel right-panel">
                     <div class="content">
@@ -97,7 +97,7 @@
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque accusantium dolor, eos incidunt minima iure?</p>
                         <button class="btn" id="sign-up-btn">Sign up</button>
                     </div>
-                    <img src="signup.svg" alt="" class="image">
+                    <img src="ADStyle/images/signup.svg" alt="" class="image">
                 </div>
             </div>
         </div>
