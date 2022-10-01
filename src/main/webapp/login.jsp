@@ -49,7 +49,7 @@
                         <input type="text" placeholder="Full Name">
                     </div>
                     <div class="input-field">
-                        <i class="fas fa-envelope"></i>
+                        <i class="fas fa-user"></i>
                         <input type="text" placeholder="User Name">
                     </div>
                     <div class="input-field">
@@ -58,28 +58,25 @@
                     </div>
                     <div class="input-field">
                         <i class="fas fa-lock"></i>
+                        <input type="password" placeholder="Confirm Password">
+                    </div>
+                    <div class="input-field">
+                        <i class="fas fa-envelope"></i>
                         <input type="text" placeholder="Email">
                     </div>
                     <div class="input-field">
-                        <i class="fas fa-lock"></i>
+                        <i class="fab fa-whatsapp"></i>
                         <input type="text" placeholder="Contact No">
                     </div>
                     <div class="input-field">
-                        <i class="fas fa-lock"></i>
+                        <i class="fas fa-id-card"></i>
                         <input type="text" placeholder="Passport No">
                     </div>
                     <div class="input-field">
-                        <i class="fas fa-lock"></i>
-                        <input type="text" placeholder="Passport No">
-                    </div>
-                    <div class="input-field">
-                        <i class="fas fa-lock"></i>
-                        <input type="text" placeholder="Passport No">
+                        <i class="far fa-calendar"></i>
+                        <input type="text" placeholder="Birth Day">
                     </div>
                     <input type="submit" value="Sign up" class="btn">
-                    
-                    
-                    <p class="account-text">Already have an account? <a href="#" id="sign-in-btn2">Sign in</a></p>
                 </form>
             </div>
             <div class="panels-container">
