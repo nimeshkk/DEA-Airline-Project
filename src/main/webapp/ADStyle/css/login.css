@@ -249,7 +249,16 @@ a {
 .container.sign-up-mode .left-panel {
     pointer-events: all;
 }
-
+.profile-icon {
+    height: 45px;
+    width: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #7f8c8d;
+    border: 2px solid #3498db;
+    border-radius: 10px;
+    margin: 0 10px;
 
 /*Responsive*/
 
