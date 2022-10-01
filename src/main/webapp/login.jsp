@@ -17,6 +17,17 @@
             <div class="signin-signup">
                 <form action="" class="sign-in-form">
                     <h2 class="title">Sign in</h2>
+                    <div class="social-media">
+                        <a href="#" class="profile-icon">
+                            <i class="fas fa-user">User</i>
+                        </a>
+                        <a href="" class="profile-icon">
+                            <i class="fas fa-user-edit">Starf</i>
+                        </a>
+                        <a href="" class="profile-icon">
+                            <i class="fas fa-user-lock">Admin</i>
+                        </a>
+                    </div>
                     <div class="input-field">
                         <i class="fas fa-user"></i>
                         <input type="text" placeholder="Username">
@@ -77,6 +88,9 @@
                         <input type="text" placeholder="Birth Day">
                     </div>
                     <input type="submit" value="Sign up" class="btn">
+                    
+                    
+                    <p class="account-text">Already have an account? <a href="#" id="sign-in-btn2">Sign in</a></p>
                 </form>
             </div>
             <div class="panels-container">
