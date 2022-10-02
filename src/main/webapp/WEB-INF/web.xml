@@ -29,4 +29,44 @@
     <servlet-name>Staff2</servlet-name>
     <url-pattern>/Staff2</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>loginUser</display-name>
+    <servlet-name>loginUser</servlet-name>
+    <servlet-class>com.user.loginUser</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>loginUser</servlet-name>
+    <url-pattern>/loginUser</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>LoginUserServ</display-name>
+    <servlet-name>LoginUserServ</servlet-name>
+    <servlet-class>com.user.LoginUserServ</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>LoginUserServ</servlet-name>
+    <url-pattern>/LoginUserServ</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>UserPhoenixUtil</display-name>
+    <servlet-name>UserPhoenixUtil</servlet-name>
+    <servlet-class>com.user.UserPhoenixUtil</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>UserPhoenixUtil</servlet-name>
+    <url-pattern>/UserPhoenixUtil</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>UserPhoenixDB</display-name>
+    <servlet-name>UserPhoenixDB</servlet-name>
+    <servlet-class>com.user.UserPhoenixDB</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>UserPhoenixDB</servlet-name>
+    <url-pattern>/UserPhoenixDB</url-pattern>
+  </servlet-mapping>
 </web-app>
