@@ -11,10 +11,10 @@ body {
     justify-content: center;
     min-height: 100vh;
     background: #444;
-    background-image: url('images/wallpaper.jpg');
-    background-repeat: no-repeat;
+    background-image:url('images/wallpaper.jpg');
+   /* background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: cover;
+    background-size: cover;*/
 }
 
 .container {
