@@ -16,7 +16,7 @@
         <div class="container">
             <div class="signin-signup">
                 <form action="" class="sign-in-form">
-                    <h2 class="title">Level 01 Staff Sign in</h2>
+                    <h2 class="title">Sign in</h2>
                     <div class="social-media">
                         <a href="login.jsp" class="profile-icon">
                             <b class="">User</b>
@@ -104,7 +104,7 @@
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque accusantium dolor, eos incidunt minima iure?</p>
                         <button class="btn" id="sign-in-btn">Sign in</button>
                     </div>
-                    <img src="starf1signin.svg" alt="" class="image">
+                    <img src="ADStyle/images/starf1signin.svg" alt="" class="image">
                 </div>
                 <div class="panel right-panel">
                     <div class="content">
@@ -112,7 +112,7 @@
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque accusantium dolor, eos incidunt minima iure?</p>
                         <button class="btn" id="sign-up-btn">Sign up</button>
                     </div>
-                    <img src="starf1Signup.svg" alt="" class="image">
+                    <img src="ADStyle/images/starf1Signup.svg" alt="" class="image">
                 </div>
             </div>
         </div>

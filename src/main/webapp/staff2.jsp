@@ -104,7 +104,7 @@
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque accusantium dolor, eos incidunt minima iure?</p>
                         <button class="btn" id="sign-in-btn">Sign in</button>
                     </div>
-                    <img src="starf2Signin.svg" alt="" class="image">
+                    <img src="ADStyle/images/starf2Signin.svg" alt="" class="image">
                 </div>
                 <div class="panel right-panel">
                     <div class="content">
@@ -112,7 +112,7 @@
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque accusantium dolor, eos incidunt minima iure?</p>
                         <button class="btn" id="sign-up-btn">Sign up</button>
                     </div>
-                    <img src="starf2signup.svg" alt="" class="image">
+                    <img src="ADStyle/images/starf2signup.svg" alt="" class="image">
                 </div>
             </div>
         </div>
