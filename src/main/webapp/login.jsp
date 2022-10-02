@@ -108,7 +108,7 @@
                 </div>
                 <div class="panel right-panel">
                     <div class="content">
-                        <h3>New to Brand?</h3>
+                        <h3>User?</h3>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque accusantium dolor, eos incidunt minima iure?</p>
                         <button class="btn" id="sign-up-btn">Sign up</button>
                     </div>
