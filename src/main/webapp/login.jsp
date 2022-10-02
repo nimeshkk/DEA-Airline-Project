@@ -48,7 +48,7 @@
                         <a href="" class="social-icon">
                             <i class="fab fa-google"></i>
                         </a>
-                        <a href="" class="social-icon">
+                        <a href="contact.jsp" class="social-icon">
                             <i class="fab fa-linkedin-in"></i>
                         </a>
                     </div>
