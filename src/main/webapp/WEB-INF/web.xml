@@ -9,4 +9,24 @@
     <welcome-file>default.jsp</welcome-file>
     <welcome-file>default.htm</welcome-file>
   </welcome-file-list>
+  <servlet>
+    <description></description>
+    <display-name>Staff1</display-name>
+    <servlet-name>Staff1</servlet-name>
+    <servlet-class>staff.Staff1</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Staff1</servlet-name>
+    <url-pattern>/Staff1</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>Staff2</display-name>
+    <servlet-name>Staff2</servlet-name>
+    <servlet-class>staff.Staff2</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Staff2</servlet-name>
+    <url-pattern>/Staff2</url-pattern>
+  </servlet-mapping>
 </web-app>
