@@ -22,7 +22,7 @@
                             <b class="">User</b>
                         </a>
                         <a href="" class="profile-icon">
-                            <b class="">Starf 1</b>
+                            <b class="">Staff 1</b>
                         </a>
                         <a href="" class="profile-icon">
                             <b class="">Starf 2</b>
