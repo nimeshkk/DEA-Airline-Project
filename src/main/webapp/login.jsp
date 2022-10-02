@@ -21,11 +21,11 @@
                         <a href="#" class="profile-icon">
                             <b class="">User</b>
                         </a>
-                        <a href="" class="profile-icon">
+                        <a href="Staff1.jsp" class="profile-icon">
                             <b class="">Staff 1</b>
                         </a>
-                        <a href="" class="profile-icon">
-                            <b class="">Starf 2</b>
+                        <a href="staff2.jsp" class="profile-icon">
+                            <b class="">StaffS 2</b>
                         </a>
                     </div>
                     <div class="input-field">
