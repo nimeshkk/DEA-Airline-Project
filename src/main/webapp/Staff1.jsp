@@ -100,7 +100,7 @@
             <div class="panels-container">
                 <div class="panel left-panel">
                     <div class="content">
-                        <h3>Level One Staff?</h3>
+                        <h3>Level One Staff</h3>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque accusantium dolor, eos incidunt minima iure?</p>
                         <button class="btn" id="sign-in-btn">Sign in</button>
                     </div>
