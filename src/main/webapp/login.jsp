@@ -22,10 +22,10 @@
                             <i class="fas fa-user">User</i>
                         </a>
                         <a href="" class="profile-icon">
-                            <i class="fas fa-user-edit">Starf</i>
+                            <i class="fas fa-user-edit">Starf 1</i>
                         </a>
                         <a href="" class="profile-icon">
-                            <i class="fas fa-user-lock">Admin</i>
+                            <i class="fas fa-user-lock">Starf 2</i>
                         </a>
                     </div>
                     <div class="input-field">
