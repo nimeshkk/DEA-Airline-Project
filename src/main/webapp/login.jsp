@@ -19,13 +19,13 @@
                     <h2 class="title">Sign in</h2>
                     <div class="social-media">
                         <a href="#" class="profile-icon">
-                            <i class="fas fa-user">User</i>
+                            <i class="">User</i>
                         </a>
                         <a href="" class="profile-icon">
-                            <i class="fas fa-user-edit">Starf 1</i>
+                            <i class="">Starf 1</i>
                         </a>
                         <a href="" class="profile-icon">
-                            <i class="fas fa-user-lock">Starf 2</i>
+                            <i class="">Starf 2</i>
                         </a>
                     </div>
                     <div class="input-field">
