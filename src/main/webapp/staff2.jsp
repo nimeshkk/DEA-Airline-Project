@@ -61,7 +61,7 @@
                     </div>
                     <div class="input-field">
                         <i class="fas fa-user"></i>
-                        <input type="text" placeholder="User Name">
+                        <input type="text" placeholder="Employee ID">
                     </div>
                     <div class="input-field">
                         <i class="fas fa-lock"></i>
@@ -81,15 +81,12 @@
                     </div>
                     <div class="input-field">
                         <i class="fas fa-id-card"></i>
-                        <input type="text" placeholder="Passport No">
+                        <input type="text" placeholder="NIC No">
                     </div>
-                    <div class="input-field">
-                        <i class="far fa-calendar"></i>
-                        <input type="text" placeholder="Birth Day">
-                    </div>
+                    
                     <div class="input-field">
                         <i class="fas fa-globe-americas"></i>
-                        <input type="text" placeholder="Country">
+                        <input type="text" placeholder="Department">
                     </div>
                     <input type="submit" value="Sign up" class="btn">
                     
@@ -108,7 +105,7 @@
                 </div>
                 <div class="panel right-panel">
                     <div class="content">
-                        <h3>New to Brand?</h3>
+                        <h3>Level Two Staff?</h3>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque accusantium dolor, eos incidunt minima iure?</p>
                         <button class="btn" id="sign-up-btn">Sign up</button>
                     </div>
