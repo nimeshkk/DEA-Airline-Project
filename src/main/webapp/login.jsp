@@ -87,6 +87,10 @@
                         <i class="far fa-calendar"></i>
                         <input type="text" placeholder="Birth Day">
                     </div>
+                    <div class="input-field">
+                        <i class="fas fa-globe-americas"></i>
+                        <input type="text" placeholder="Country">
+                    </div>
                     <input type="submit" value="Sign up" class="btn">
                     
                     
