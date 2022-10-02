@@ -19,13 +19,13 @@
                     <h2 class="title">Sign in</h2>
                     <div class="social-media">
                         <a href="#" class="profile-icon">
-                            <i class="">User</i>
+                            <b class="">User</b>
                         </a>
                         <a href="" class="profile-icon">
-                            <i class="">Starf 1</i>
+                            <b class="">Starf 1</b>
                         </a>
                         <a href="" class="profile-icon">
-                            <i class="">Starf 2</i>
+                            <b class="">Starf 2</b>
                         </a>
                     </div>
                     <div class="input-field">
