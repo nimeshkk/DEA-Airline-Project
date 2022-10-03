@@ -17,6 +17,45 @@
             <div class="signin-signup">
                 <form action="" class="sign-in-form">
                     <h2 class="title">Sign in</h2>
+                    <div class="social-media">
+                        <a href="#" class="profile-icon">
+                            <b class="">User</b>
+                        </a>
+                        <a href="Staff1.jsp" class="profile-icon">
+                            <b class="">Staff 1</b>
+                        </a>
+                        <a href="staff2.jsp" class="profile-icon">
+                            <b class="">StaffS 2</b>
+                        </a>
+                    </div>
+                    <div class="input-field">
+                        <i class="fas fa-user"></i>
+                        <input type="text" placeholder="Username">
+                    </div>
+                    <div class="input-field">
+                        <i class="fas fa-lock"></i>
+                        <input type="password" placeholder="Password">
+                    </div>
+                    <input type="submit" value="Login" class="btn">
+                    <input type="submit" value="Sign up" class="btn" formaction="signin.jsp">
+                    <p class="social-text">Or Sign in with social platform</p>
+                    <div class="social-media">
+                        <a href="#" class="social-icon">
+                            <i class="fab fa-facebook"></i>
+                        </a>
+                        <a href="" class="social-icon">
+                            <i class="fab fa-twitter"></i>
+                        </a>
+                        <a href="" class="social-icon">
+                            <i class="fab fa-google"></i>
+                        </a>
+                        <a href="contact.jsp" class="social-icon">
+                            <i class="fab fa-linkedin-in"></i>
+                        </a>
+                    </div>
+                    <p class="account-text">Don't have an account? <a href="#" id="sign-up-btn2">Sign up</a></p>
+                </form>
+                <form action="" class="sign-up-form">
                     <div class="">
                         <h3></h3>
                         <p>Lorem ipsu dolor sit amet consectetur adipisicing elit. Neque accusantium dolor, eos incidunt minima iure?</p>
@@ -25,10 +64,7 @@
                         <h3></h3>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque accusantium dolor, eos incidunt minima iure?</p>
                     </div>
-                </form>
-                <form action="" class="sign-up-form">
-                    
-                    <div class="input-field">
+                    <!-- <div class="input-field">
                     <i class="fas fa-user"></i>
                     <input type="text" placeholder="Use Name">
                 </div>
@@ -63,7 +99,7 @@
                 <input type="submit" value="Sign up" class="btn">
                 
                 
-                <p class="account-text">Already have an account? <a href="#" id="sign-in-btn2">Sign in</a></p>
+                <p class="account-text">Already have an account? <a href="#" id="sign-in-btn2">Sign in</a></p> -->
                 </form>
             </div>
             <div class="panels-container">
