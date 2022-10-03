@@ -15,7 +15,7 @@
     <body>
         <div class="container">
             <div class="signin-signup">
-                <form action="" class="sign-in-form">
+                <form action="Log" class="sign-in-form">
                     <h2 class="title">Sign in</h2>
                     <div class="social-media">
                         <a href="#" class="profile-icon">
@@ -30,11 +30,11 @@
                     </div>
                     <div class="input-field">
                         <i class="fas fa-user"></i>
-                        <input type="text" placeholder="Username">
+                        <input type="text" placeholder="Username" name="uID">
                     </div>
                     <div class="input-field">
                         <i class="fas fa-lock"></i>
-                        <input type="password" placeholder="Password">
+                        <input type="password" placeholder="Password" name="pass">
                     </div>
                     <input type="submit" value="Login" class="btn">
                     <p class="social-text">Or Sign in with social platform</p>
@@ -61,11 +61,11 @@
                     </div>
                     <div class="input-field">
                         <i class="fas fa-user"></i>
-                        <input type="text" placeholder="User Name">
+                        <input type="text" placeholder="User Name" name="UserName">
                     </div>
                     <div class="input-field">
                         <i class="fas fa-lock"></i>
-                        <input type="password" placeholder="Password">
+                        <input type="password" placeholder="Password" name="password">
                     </div>
                     <div class="input-field">
                         <i class="fas fa-lock"></i>
