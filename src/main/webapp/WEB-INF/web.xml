@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jakarta.ee/xml/ns/jakartaee" xmlns:web="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd" id="WebApp_ID" version="5.0">
   <display-name>DEA-project-Airline</display-name>
-  <welcome-file-list>
-    <welcome-file>index.html</welcome-file>
-    <welcome-file>index.jsp</welcome-file>
-    <welcome-file>index.htm</welcome-file>
-    <welcome-file>default.html</welcome-file>
-    <welcome-file>default.jsp</welcome-file>
-    <welcome-file>default.htm</welcome-file>
-  </welcome-file-list>
+ 
   <servlet>
     <description></description>
     <display-name>Staff1</display-name>
@@ -28,5 +21,45 @@
   <servlet-mapping>
     <servlet-name>Staff2</servlet-name>
     <url-pattern>/Staff2</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>loginUser</display-name>
+    <servlet-name>loginUser</servlet-name>
+    <servlet-class>com.user.loginUser</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>loginUser</servlet-name>
+    <url-pattern>/loginUser</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>LoginUserServ</display-name>
+    <servlet-name>LoginUserServ</servlet-name>
+    <servlet-class>com.user.LoginUserServ</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>LoginUserServ</servlet-name>
+    <url-pattern>/Log</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>UserPhoenixUtil</display-name>
+    <servlet-name>UserPhoenixUtil</servlet-name>
+    <servlet-class>com.user.UserPhoenixUtil</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>UserPhoenixUtil</servlet-name>
+    <url-pattern>/UserPhoenixUtil</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>UserPhoenixDB</display-name>
+    <servlet-name>UserPhoenixDB</servlet-name>
+    <servlet-class>com.user.UserPhoenixDB</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>UserPhoenixDB</servlet-name>
+    <url-pattern>/UserPhoenixDB</url-pattern>
   </servlet-mapping>
 </web-app>

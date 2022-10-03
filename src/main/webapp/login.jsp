@@ -15,7 +15,7 @@
     <body>
         <div class="container">
             <div class="signin-signup">
-                <form action="" class="sign-in-form">
+                <form action="Log" class="sign-in-form">
                     <h2 class="title">Sign in</h2>
                     <div class="social-media">
                         <a href="#" class="profile-icon">
@@ -30,11 +30,11 @@
                     </div>
                     <div class="input-field">
                         <i class="fas fa-user"></i>
-                        <input type="text" placeholder="Username">
+                        <input type="text" placeholder="Username" name="uID">
                     </div>
                     <div class="input-field">
                         <i class="fas fa-lock"></i>
-                        <input type="password" placeholder="Password">
+                        <input type="password" placeholder="Password" name="pass">
                     </div>
                     <input type="submit" value="Login" class="btn">
                     <input type="submit" value="Sign up" class="btn">
@@ -60,6 +60,7 @@
                         <h3></h3>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque accusantium dolor, eos incidunt minima iure?</p>
                     </div>
+<<<<<<< HEAD
                     <div class="">
                         <h3></h3>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque accusantium dolor, eos incidunt minima iure?</p>
@@ -100,6 +101,44 @@
                 
                 
                 <p class="account-text">Already have an account? <a href="#" id="sign-in-btn2">Sign in</a></p> -->
+=======
+                    <div class="input-field">
+                        <i class="fas fa-user"></i>
+                        <input type="text" placeholder="User Name" name="UserName">
+                    </div>
+                    <div class="input-field">
+                        <i class="fas fa-lock"></i>
+                        <input type="password" placeholder="Password" name="password">
+                    </div>
+                    <div class="input-field">
+                        <i class="fas fa-lock"></i>
+                        <input type="password" placeholder="Confirm Password">
+                    </div>
+                    <div class="input-field">
+                        <i class="fas fa-envelope"></i>
+                        <input type="text" placeholder="Email">
+                    </div>
+                    <div class="input-field">
+                        <i class="fab fa-whatsapp"></i>
+                        <input type="text" placeholder="Contact No">
+                    </div>
+                    <div class="input-field">
+                        <i class="fas fa-id-card"></i>
+                        <input type="text" placeholder="Passport No">
+                    </div>
+                    <div class="input-field">
+                        <i class="far fa-calendar"></i>
+                        <input type="text" placeholder="Birth Day">
+                    </div>
+                    <div class="input-field">
+                        <i class="fas fa-globe-americas"></i>
+                        <input type="text" placeholder="Country">
+                    </div>
+                    <input type="submit" value="Sign up" class="btn">
+                    
+                    
+                    <p class="account-text">Already have an account? <a href="#" id="sign-in-btn2">Sign in</a></p>
+>>>>>>> d00f21ff3459420c2846774a2e75f54932fcbf68
                 </form>
             </div>
             <div class="panels-container">
