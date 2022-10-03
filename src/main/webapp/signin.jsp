@@ -15,16 +15,8 @@
     <body>
         <div class="container">
             <div class="signin-signup">
-                <div class="">
-                    <h3></h3>
-                    <p>Lorem ipsu dolor sit amet consectetur adipisicing elit.</p>
-                </div>
-                <div class="">
-                    <h3></h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                </div>
-                <!-- <form action="" class="sign-in-form">
-                    <h2 class="title">Sign in</h2>
+                <form action="" class="sign-in-form">
+                    <!-- <h2 class="title">Sign in</h2>
                     <div class="social-media">
                         <a href="#" class="profile-icon">
                             <b class="">User</b>
@@ -60,8 +52,8 @@
                         <a href="" class="social-icon">
                             <i class="fab fa-linkedin-in"></i>
                         </a>
-                    </div>
-                    <p class="account-text">Don't have an account? <a href="#" id="sign-up-btn2">Sign up</a></p> -->
+                    </div> -->
+                    <p class="account-text">Don't have an account? <a href="#" id="sign-up-btn2">Sign up</a></p>
                 </form>
                 <form action="" class="sign-up-form">
                     
