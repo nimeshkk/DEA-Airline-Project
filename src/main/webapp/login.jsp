@@ -56,9 +56,13 @@
                     <p class="account-text">Don't have an account? <a href="#" id="sign-up-btn2">Sign up</a></p>
                 </form>
                 <form action="" class="sign-up-form">
-                    <div class="input-field">
-                        <i class="fas fa-user"></i>
-                        <input type="text" placeholder="Full Name">
+                    <div class="">
+                        <h3></h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque accusantium dolor, eos incidunt minima iure?</p>
+                    </div>
+                    <div class="">
+                        <h3></h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque accusantium dolor, eos incidunt minima iure?</p>
                     </div>
                     <!-- <div class="input-field">
                     <i class="fas fa-user"></i>
