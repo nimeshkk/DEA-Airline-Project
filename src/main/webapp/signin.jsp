@@ -15,6 +15,14 @@
     <body>
         <div class="container">
             <div class="signin-signup">
+                <div class="">
+                    <h3></h3>
+                    <p>Lorem ipsu dolor sit amet consectetur adipisicing elit. Neque accusantium dolor, eos incidunt minima iure?</p>
+                </div>
+                <div class="">
+                    <h3></h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque accusantium dolor, eos incidunt minima iure?</p>
+                </div>
                 <!-- <form action="" class="sign-in-form">
                     <h2 class="title">Sign in</h2>
                     <div class="social-media">
