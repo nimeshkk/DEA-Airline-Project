@@ -80,7 +80,7 @@ nav ul li a:hover{
 }
 
 .input-lines{
-    /* displ */
+    display: flex;
     margin-bottom: 10px;
 }
 
