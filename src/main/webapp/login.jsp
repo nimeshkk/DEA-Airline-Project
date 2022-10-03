@@ -110,7 +110,7 @@
                     <div class="content">
                         <h3>User?</h3>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque accusantium dolor, eos incidunt minima iure?</p>
-                        <button class="btn" id="sign-up-btn">Sign up</button>
+                        <button class="btn" id="sign-up-btn">Get Info</button>
                     </div>
                     <img src="ADStyle/images/signup.svg" alt="" class="image">
                 </div>
