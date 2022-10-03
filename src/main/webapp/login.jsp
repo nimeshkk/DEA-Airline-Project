@@ -37,6 +37,7 @@
                         <input type="password" placeholder="Password">
                     </div>
                     <input type="submit" value="Login" class="btn">
+                    <input type="submit" value="Sign up" class="btn">
                     <p class="social-text">Or Sign in with social platform</p>
                     <div class="social-media">
                         <a href="#" class="social-icon">
