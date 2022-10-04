@@ -18,7 +18,7 @@
                 <form action="" class="sign-in-form">
                     <h2 class="title">Sign in</h2>
                     <div class="social-media">
-                        <a href="#" class="profile-icon">
+                        <a href="" class="profile-icon">
                             <b class="">User</b>
                         </a>
                         <a href="Staff1.jsp" class="profile-icon">

@@ -15,6 +15,7 @@
     <body>
         <div class="container">
             <div class="signin-signup">
+                
                 <form action="" class="sign-in-form">
                     <!-- <h2 class="title">Sign in</h2>
                     <div class="social-media">
@@ -59,11 +60,7 @@
                     
                     <div class="input-field">
                         <i class="fas fa-user"></i>
-                        <input type="text" placeholder="Full Name">
-                    </div>
-                    <div class="input-field">
-                        <i class="fas fa-user"></i>
-                        <input type="text" placeholder="Employee ID">
+                        <input type="text" placeholder="User Name">
                     </div>
                     <div class="input-field">
                         <i class="fas fa-lock"></i>
@@ -83,12 +80,15 @@
                     </div>
                     <div class="input-field">
                         <i class="fas fa-id-card"></i>
-                        <input type="text" placeholder="NIC No">
+                        <input type="text" placeholder="Passport No">
                     </div>
-                    
+                    <div class="input-field">
+                        <i class="far fa-calendar"></i>
+                        <input type="text" placeholder="Birth Day">
+                    </div>
                     <div class="input-field">
                         <i class="fas fa-globe-americas"></i>
-                        <input type="text" placeholder="Department">
+                        <input type="text" placeholder="Country">
                     </div>
                     <input type="submit" value="Sign up" class="btn">
                     
@@ -99,8 +99,8 @@
             <div class="panels-container">
                 <div class="panel left-panel">
                     <div class="content">
-                        <h3>Member of Brand?</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque accusantium dolor, eos incidunt minima iure?</p>
+                        <!-- <h3>Member of Brand?</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque accusantium dolor, eos incidunt minima iure?</p> -->
                         <button class="btn" id="sign-in-btn">Sign in</button>
                     </div>
                     <img src="ADStyle/images/signin.svg" alt="" class="image">
