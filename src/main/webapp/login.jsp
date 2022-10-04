@@ -30,11 +30,11 @@
                     </div>
                     <div class="input-field">
                         <i class="fas fa-user"></i>
-                        <input type="text" placeholder="Username">
+                        <input type="text" name="uname" placeholder="Username">
                     </div>
                     <div class="input-field">
                         <i class="fas fa-lock"></i>
-                        <input type="password" placeholder="Password">
+                        <input type="password" name="password" placeholder="Password">
                     </div>
                     <input type="submit" value="Login" class="btn">
                     <input type="submit" value="Sign up" class="btn" formaction="signin.jsp">
