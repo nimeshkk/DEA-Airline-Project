@@ -25,7 +25,7 @@
                             <b class="">Staff 1</b>
                         </a>
                         <a href="staff2.jsp" class="profile-icon">
-                            <b class="">StaffS 2</b>
+                            <b class="">Staff 2</b>
                         </a>
                     </div>
                     <div class="input-field">
