@@ -47,7 +47,7 @@ public class LoginDao
 	  try {
 	  ps=(PreparedStatement) con.prepareStatement(sql);
 	  ps.setString(1, member.getName());
-	  ps.setString(2, member.getPassword());
+	  ps.setString(2, ((Object) member).getPassword());
 	  ps.executeUpdate();
 	  
   } catch (SQLException e) {
