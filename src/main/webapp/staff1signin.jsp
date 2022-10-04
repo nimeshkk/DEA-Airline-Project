@@ -63,6 +63,10 @@
                         <input type="text" placeholder="User Name">
                     </div>
                     <div class="input-field">
+                        <i class="fas fa-user"></i>
+                        <input type="text" placeholder="Employee ID">
+                    </div>
+                    <div class="input-field">
                         <i class="fas fa-lock"></i>
                         <input type="password" placeholder="Password">
                     </div>
@@ -80,15 +84,12 @@
                     </div>
                     <div class="input-field">
                         <i class="fas fa-id-card"></i>
-                        <input type="text" placeholder="Passport No">
+                        <input type="text" placeholder="NIC">
                     </div>
-                    <div class="input-field">
-                        <i class="far fa-calendar"></i>
-                        <input type="text" placeholder="Birth Day">
-                    </div>
+                    
                     <div class="input-field">
                         <i class="fas fa-globe-americas"></i>
-                        <input type="text" placeholder="Country">
+                        <input type="text" placeholder="Department">
                     </div>
                     <input type="submit" value="Sign up" class="btn">
                     
