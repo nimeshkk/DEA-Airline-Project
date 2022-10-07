@@ -57,12 +57,15 @@
                 </form>
                 <form action="" class="sign-up-form">
                     <div class="">
-                        <h3></h3>
-                        <p>Lorem ipsu dolor sit amet consectetur adipisicing elit. Neque accusantium dolor, eos incidunt minima iure?</p>
+                        <h3>
+You don't need a credit card anymore!</h3>
+                        <p>Convenient payment option that is absolutely credit card-free
+ Airlines team up with Exchange Houses in the United Arab Emirates to bring you in full swing to have flamboyant travel experience .
+This unique offer which brings utmost convenience to air travelers through a synergy of book online and pay in cash through a wide range of touch points.</p>
                     </div>
                     <div class="">
                         <h3></h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque accusantium dolor, eos incidunt minima iure?</p>
+                        <p></p>
                     </div>
                     <!-- <div class="input-field">
                     <i class="fas fa-user"></i>
@@ -105,8 +108,8 @@
             <div class="panels-container">
                 <div class="panel left-panel">
                     <div class="content">
-                        <h3>Member of Brand?</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque accusantium dolor, eos incidunt minima iure?</p>
+                        <h3>Already have an account?</h3>
+                        <p></p>
                         <button class="btn" id="sign-in-btn">Sign in</button>
                     </div>
                     <img src="ADStyle/images/signin.svg" alt="" class="image">
@@ -114,8 +117,8 @@
                 <div class="panel right-panel">
                     <div class="content">
                         <h3>User?</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque accusantium dolor, eos incidunt minima iure?</p>
-                        <button class="btn" id="sign-up-btn">Get Info</button>
+                        <p>All at a fingertip distance. book your air ticket easily</p>
+                        <button class="btn" id="sign-up-btn">Get more Info</button>
                     </div>
                     <img src="ADStyle/images/signup.svg" alt="" class="image">
                 </div>
