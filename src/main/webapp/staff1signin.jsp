@@ -100,16 +100,16 @@
             <div class="panels-container">
                 <div class="panel left-panel">
                     <div class="content">
-                        <!-- <h3>Member of Brand?</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque accusantium dolor, eos incidunt minima iure?</p> -->
+                        <h3>Already have an account? </h3>
+                        <p>Save time, money and avoid hassle at the airport by pre-purchasing excess baggage at a discount from airport rates on web</p>
                         <button class="btn" id="sign-in-btn">Sign in</button>
                     </div>
                     <img src="ADStyle/images/signin.svg" alt="" class="image">
                 </div>
                 <div class="panel right-panel">
                     <div class="content">
-                        <h3>User?</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque accusantium dolor, eos incidunt minima iure?</p>
+                        <h3>staff?</h3>
+                        <p>Save time, money and avoid hassle at the airport by pre-purchasing excess baggage at a discount from airport rates on web</p>
                         <button class="btn" id="sign-up-btn">Create account</button>
                     </div>
                     <img src="ADStyle/images/signup.svg" alt="" class="image">

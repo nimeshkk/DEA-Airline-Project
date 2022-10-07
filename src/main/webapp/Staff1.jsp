@@ -106,7 +106,7 @@
                 <div class="panel left-panel">
                     <div class="content">
                         <h3>Level One Staff?</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque accusantium dolor, eos incidunt minima iure?</p>
+                        <p>Save time, money and avoid hassle at the airport by pre-purchasing excess baggage at a discount from airport rates on web</p>
                         <button class="btn" id="sign-in-btn">Sign in</button>
                     </div>
                     <img src="ADStyle/images/starf1signin.svg" alt="" class="image">
@@ -114,7 +114,7 @@
                 <div class="panel right-panel">
                     <div class="content">
                         <h3>Level One Staff?</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque accusantium dolor, eos incidunt minima iure?</p>
+                        <p></p>
                         <button class="btn" id="sign-up-btn">Get Info</button>
                     </div>
                     <img src="ADStyle/images/starf1Signup.svg" alt="" class="image">
