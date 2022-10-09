@@ -4,7 +4,21 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert </title>
+<title>User Dashboard_1</title>
+	<!-- font icons -->
+    <link rel="stylesheet" href="C:\Users\danin\Desktop\NSBM\2nd Year\1st Semester\DEA\Group Projects\Coding\Template\All\public_html\assets\vendors\themify-icons\css\themify-icons.css">
+
+    <!-- Bootstrap + LeadMark main styles -->
+	<link rel="stylesheet" href="C:\Users\danin\Desktop\NSBM\2nd Year\1st Semester\DEA\Group Projects\Coding\Template\All\public_html\assets\css\leadmark.css">
+    
+    <!-- CSS File -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+    <!-- Google font -->
+	<link href="https://fonts.googleapis.com/css?family=PT+Sans:400" rel="stylesheet">
+
+	<!-- Bootstrap -->
+	<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css" />
 </head>
 <body>
 	<div class="main-body">
